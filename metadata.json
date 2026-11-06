@@ -1,0 +1,6 @@
+{
+  "name": "Nothing Glass",
+  "description": "Ultra-fast, smooth frosted glass launcher inspired by Nothing OS with live dot-matrix widgets, dynamic glass controls, and seamless app management for all Android phones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
